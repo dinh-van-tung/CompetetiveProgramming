@@ -2,6 +2,7 @@
      ()_()                                  ()_()
     ( o.o )  -> *Author: Van Tung Dinh <-  ( -.- )
      > ^ <                                  (")(")
+     Link submit: None
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -91,4 +92,5 @@ int main() {
      ()_()                                  ()_()
     ( o.o )  -> *Author: Van Tung Dinh <-  ( -.- )
      > ^ <                                  (")(")
+     Link submit: None
 */
