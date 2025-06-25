@@ -1,10 +1,10 @@
-/*
-     ()_()                                ()_()
-    ( o.o )  -> *Author: VanTungDinh <-  ( -.- )
-     > ^ <                                (")(")
-
-     Last reviewed and updated: 2025/06/25
-    -> Link submit: https://www.spoj.com/problems/TOPOSORT/
+/**
+ *    ()_()                                ()_()
+ *   ( o.o )  -> *Author: VanTungDinh <-  ( -.- )
+ *    > ^ <                                (")(")
+ *
+ *   Last reviewed and updated: 2025/06/25
+ *   Link submit: https://www.spoj.com/problems/TOPOSORT/
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,8 +20,8 @@ using namespace std;
 #define rshift(x, i) ((x) >> (i))
 #define checkbit(x, i) (((x) >> (i)) & 1ll)
 #define cnt_bit1(x) __builtin_popcountll((x))
-#define clz(x) __builtin_clzll((x)) // count leading zeros
-#define ctz(x) __builtin_ctzll((x)) // count trailing zeros
+#define clz(x) __builtin_clzll((x)) /* count leading zeros */
+#define ctz(x) __builtin_ctzll((x)) /* count trailing zeros */
 #define ll long long
 #define ull unsigned long long
 #define ld long double
