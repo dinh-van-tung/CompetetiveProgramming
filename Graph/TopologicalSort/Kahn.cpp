@@ -1,7 +1,9 @@
 /*
-     ()_()                                  ()_()
-    ( o.o )  -> *Author: Van Tung Dinh <-  ( -.- )
-     > ^ <                                  (")(")
+     ()_()                                ()_()
+    ( o.o )  -> *Author: VanTungDinh <-  ( -.- )
+     > ^ <                                (")(")
+
+     Last reviewed and updated: 2025/06/25
      Link submit: None
 */
 #include <bits/stdc++.h>
@@ -88,9 +90,3 @@ int main() {
     }
     return 0;
 }
-/*
-     ()_()                                  ()_()
-    ( o.o )  -> *Author: Van Tung Dinh <-  ( -.- )
-     > ^ <                                  (")(")
-     Link submit: None
-*/
