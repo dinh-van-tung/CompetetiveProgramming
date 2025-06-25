@@ -1,10 +1,10 @@
-/*
-     ()_()                                ()_()
-    ( o.o )  -> *Author: VanTungDinh <-  ( -.- )
-     > ^ <                                (")(")
-
-     Last reviewed and updated: none
-     Link submit: none
+/**
+ *    ()_()                                ()_()
+ *   ( o.o )  -> *Author: VanTungDinh <-  ( -.- )
+ *    > ^ <                                (")(")
+ *
+ *   Last reviewed and updated: none
+ *   Link submit: none
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,8 +20,8 @@ using namespace std;
 #define rshift(x, i) ((x) >> (i))
 #define checkbit(x, i) (((x) >> (i)) & 1ll)
 #define cnt_bit1(x) __builtin_popcountll((x))
-#define clz(x) __builtin_clzll((x)) // count leading zeros
-#define ctz(x) __builtin_ctzll((x)) // count trailing zeros
+#define clz(x) __builtin_clzll((x)) /* count leading zeros */
+#define ctz(x) __builtin_ctzll((x)) /* count trailing zeros */
 #define ll long long
 #define ull unsigned long long
 #define ld long double
