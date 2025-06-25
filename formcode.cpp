@@ -3,8 +3,8 @@
  *   ( o.o )  -> *Author: VanTungDinh <-  ( -.- )
  *    > ^ <                                (")(")
  *
- *   Last reviewed and updated: none
- *   Link submit: none
+ *   Last reviewed and updated: None
+ *   Link submit: None
 */
 #include <bits/stdc++.h>
 using namespace std;
