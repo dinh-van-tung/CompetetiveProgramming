@@ -2,7 +2,9 @@
      ()_()                                ()_()
     ( o.o )  -> *Author: VanTungDinh <-  ( -.- )
      > ^ <                                (")(")
-     Link submit: None
+
+     Last reviewed and updated: none
+     Link submit: none
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -34,7 +36,7 @@ void input(void) {
 void solve(void) {
 }
 
-int main() {
+int main(void) {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     cout.tie(0);
@@ -47,9 +49,3 @@ int main() {
     }
     return 0;
 }
-/*
-     ()_()                                ()_()
-    ( o.o )  -> *Author: VanTungDinh <-  ( -.- )
-     > ^ <                                (")(")
-     Link submit: None
-*/
